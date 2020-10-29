@@ -38,3 +38,4 @@ My interests are :
 - Communicative and friendly
 - Work underpressure
 - Logical thinking
+- Willingness to develop and determination
