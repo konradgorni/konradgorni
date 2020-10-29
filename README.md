@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi i am Konrad
 
-<!--
-**konradgorni/konradgorni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 20 years old boy.I gratueted IT technical and i started IT study in this year.Currently i am working in Front-End technology (HTML,CSS,JS,REACT) but in the future i would like to be a full stack.
 
-Here are some ideas to get you started:
+I am looking for a my first job remote or in Cracow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My hobby is ride a bike in the forest and night car trips.
+My interesing are widely understood web development.
+
+Other technology which i worked:
+-FireBase
+-Boostrap
+-Redux
+-MySql
+-Jquery
+-TypeScript
+
