@@ -1,17 +1,35 @@
-### Hi i am Konrad
+### 🙍 **Hi i am Konrad**
+I am 20 years old boy.I finished IT technical and i have been started IT study in this year.
 
-I am 20 years old boy.I gratueted IT technical and i started IT study in this year.Currently i am working in Front-End technology (HTML,CSS,JS,REACT) but in the future i would like to be a full stack.
+
+
+## 🔨 My stack
+
+Currently i am working in Front-End technology (HTML,CSS,JS,REACT) but in the future i would like to be a full stack(Node)
+
+# 🏭 Job
 
 I am looking for a my first job remote or in Cracow.
 
-My hobby is ride a bike in the forest and night car trips.
-My interesing are widely understood web development.
+# 🚴 Hobby
 
-Other technology which i worked:
--FireBase
--Boostrap
--Redux
--MySql
--Jquery
--TypeScript
+My hobby is ride a bike in the forest and night car trips.
+
+# 📚 Interests
+My interests are :
+- Widely understood web development.
+- Economy
+- Policy
+- law
+- personal development
+- Cars
+
+# ⚙️ Other technology which i worked:
+- FireBase
+- Boostrap
+- Redux
+- MySql
+- Jquery
+- TypeScript
+- SCSS
 
