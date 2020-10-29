@@ -20,8 +20,8 @@ My interests are :
 - Widely understood web development.
 - Economy
 - Policy
-- law
-- personal development
+- Law
+- Personal development
 - Cars
 
 # ⚙️ Other technology which i worked:
@@ -33,3 +33,8 @@ My interests are :
 - TypeScript
 - SCSS
 
+# 💪 My strong bee is
+- Fast learning
+- Communicative and friendly
+- Work underpressure
+- Logical thinking
