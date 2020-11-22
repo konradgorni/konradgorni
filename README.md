@@ -5,7 +5,15 @@ I am 20 years old boy.I finished IT technical and i have been started IT study i
 
 ## 🔨 My stack
 
-Currently i am working in Front-End technology (HTML,CSS,JS,REACT) but in the future i would like to be a full stack(Node)
+Currently i am working in Front-End technology:
+HTML(semantic html 5)
+CSS(pre-processor sass,rwd(mobile first))
+JS(functional,class,jquery also)
+REACT(renderProps,context,high-order-component,hooks,redux,functional components ...)
+
+
+
+but in the future i would like to be a full stack(Node)
 
 # 🏭 Job
 
